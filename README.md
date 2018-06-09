@@ -1,2 +1,3 @@
-# go-rest
-Testing ground for various goland REST frameworks
+```shell
+$ go get github.com/gorilla/mux
+```
